@@ -1,3 +1,3 @@
-Git ia a version control system
+Git ia a distributed version control system.
 Git is free software
 
